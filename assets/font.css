@@ -1,0 +1,10 @@
+@font-face{
+    src:url("/online-backpack-store/assets/font/A-Iranian-Sans/IranianSans.ttf")format("ttf");
+    font-family: "IranianSans";
+    font-weight: bold;
+    font-style: normal;
+}
+body{
+
+    font-family: "IranianSans";  
+}
